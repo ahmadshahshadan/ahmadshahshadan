@@ -1,0 +1,126 @@
+
+
+SDLC:
+Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates.
+
+
+
+
+1 - In Project kickoff:--> PO/ businees team have an idea or project that 
+2 - Analysis:--> Business analyst works with PO and write requirement
+3 - Design:--> UX person create design doc
+4 - Development:--> Development team received BRD and Design doc and do the development or coding.
+5 - QA:--> when receives BRD and Design doc and developed application the team do the testing 
+6 - deployement:--> Deploy team deploy the code to prodcution or implement the developed application in the web service for use of users. 
+7 - maintainance:--> team maintain the software for future needs.
+
+
+
+
+
+STLC
+
+1- Requirement Analysis: 
+2- Test Planning -- > test plan document
+3- Test case development
+4- Test Environment setup- www.QAfacebook.com
+5- Test Execution
+6- Test Cycle closure- generating reports
+
+
+
+
+
+DLC: 
+Defect/Bug Life Cycle: When a tester find a bug/defect the defect life cycle start and assigned a status new, the DLC cycle from new status ( discovering of the bug in the first time) up to the last step of the retest the DLC has several steps that are in the below:
+ 
+ 1- New:--> When a new defect is logged and posted for the first time. It is assigned a status as NEW.
+ 2- Assigned: Once the bug is posted by the tester, the lead of the tester approves the bug and assigns the bug to the developer team
+ 3- Open: The developer starts analyzing and works on the defect fix
+ 4- Fixed: When a developer makes a necessary code change and verifies the change, he or she can make bug status as "Fixed."
+ 5- Pending retest: Once the defect is fixed the developer gives a particular code for retesting the code to the tester. Since the software testing remains pending from the testers end, the status assigned is "pending retest."
+ 6- Retest: Tester does the retesting of the code at this stage to check whether the defect is fixed by the developer or not and changes the status to "Re-test."
+
+
+
+
+
+What is Agile Methodology?
+
+An agile methodology is an iterative approach to software development. Each iteration of agile methodology takes a short time interval of 1 to 4 weeks. when a iterative short time complete the team improves the application in another  .
+
+Agile Methodology
+Roles in Agile
+There are two different roles in a Agile methodology. These are the Scrum Master and Product Owner.
+
+1. Scrum Master
+The Scrum Master is a team leader and facility provider who helps the team member to follow agile practices, so that the team member meets their commitments and customers requirements. The scrum master plays the following responsibilities:
+
+They enable the close co-operation between all the roles and functions.
+They remove all the blocks which occur.
+They safeguard the team from any disturbances.
+They work with the organization to track the progress and processes of the company.
+They ensure that Agile Inspect & Adapt processes are leveraged correctly which includes
+Planned meetings
+Daily stand-ups
+Demo
+Review
+Retrospective meetings, and
+Facilitate team meetings and decision-making process.
+2. Product Owner
+The Product Owner is one who runs the product from a business perspective. The Product Owner plays the following responsibilities:
+
+He defines the requirements and prioritizes their values.
+He sets the release date and contents.
+He takes an active role in iteration and releasing planning meetings.
+He ensures that the team is working on the most valued requirement.
+He represents the voice of the customer.
+He accepts the user stories that meet the definition of done and defined acceptance criteria.
+Cross-functional team
+Every agile team contains self-sufficient team with 5 to 9 team members. The average experience of each member ranges from 6 to 10 years. The agile team contains 3 to 4 developers, 1 tester, 1 technical lead, 1 scrum master and 1 product owner.
+
+The Scrum master and Product owner are considered as a part of Team Interface, on the other hand remaining members are the part of Technical Interface.
+
+Agile Methodology
+How an Agile Team plan their work?
+An Agile methodology is not a specific set of ceremonies or specific development techniques. Rather, it is a group of methodologies that demonstrate a commitment to tight feedback cycles and continuous improvement. An Agile team works in iterations to deliver the customer requirement, and each iteration takes 10 to 15 days. However, the original Agile Manifesto didn't set the time period of two-week iterations or an ideal team size.
+
+Each user requirement is a planned based and their backlog prioritization and size. The team decides, how much scope they have and how many hours available with each team to perform their planed task.
+
+Agile Methodology
+What is a user requirement?
+The user requirement defines the requirements of the user in terms of functionalities. There may be of two type of functionality.
+
+As a <User Role> I want <Functionality> so that <Business Value>
+In order to <Business value> as a <User Role> I want <Functionality>.
+During software release planning, a rough estimate is given to a user requirement using relative scale points. During iteration planning, the requirement is broken down into tasks.
+
+
+Relation between User requirement and Task
+User requirement talks about what is to be done. It defines the needs of users.
+Task talks about how it is to be done. It defines how functionality is implemented.
+User requirements are implemented by tasks. Every requirement is gathering as the task.
+User requirement is divided into different tasks when it is planned in current iteration.
+User tasks are estimated in hours based, generally it is between 2 to 12 hours.
+Requirements are validated using acceptance test.
+Agile Methodology
+When the requirement is completed
+The Agile team decides the meaning of task done. There may be different criteria for it:
+
+When the entire task (development, testing) are completed.
+When all the acceptance tests are running and are passed.
+When no defects found.
+Product owner has accepted the requirement.
+When the software product is delivered to the end user.
+What is Software Acceptance Criteria?
+Acceptance Criteria is defined as the functionality, behavior, and performance requirement by a product owner. It defines what is to be done so that the developer knows when a user requirement is complete.
+
+
+Application programming interfaces, or APIs, simplify software development and innovation by enabling applications to exchange data and functionality easily and securely.
+What is an application programming interface (API)?
+An application programming interface, or API, enables companies to open up their applications’ data and functionality to external third-party developers, business partners, and internal departments within their companies. This allows services and products to communicate with each other and leverage each other’s data and functionality through a documented interface. Developers don't need to know how an API is implemented; they simply use the interface to communicate with other products and services. API use has surged over the past decade, to the degree that many of the most popular web applications today would not be possible without APIs.
+
+How an API works
+An API is a set of defined rules that explain how computers or applications communicate with one another. APIs sit between an application and the web server, acting as an intermediary layer that processes data transfer between systems.
+
+
